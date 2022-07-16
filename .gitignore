@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__
+datasets/
+generated_modelling_frames/
+frames7/
+frames_test1/
+vev
+frames_hemma
+02
+04
+09
+EvaluationImages02
+EvaluationImages04
+EvaluationImages09
