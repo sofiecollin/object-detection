@@ -1,6 +1,7 @@
-_Add libraries and links in here._
+# Object Tracking
+This project enables tracking of people as they move around in a video sequence. The system also and maintains their identity as long as they are on-screen. The results are evaluated numerically to determine the accuracy of the system.
 
-# TSBB15 Project: Object Tracking
+![image](https://github.com/user-attachments/assets/33de4921-d46e-4a0f-a8a7-0c79905af91c)
 
 **External Libraries**
 - OpenCv
